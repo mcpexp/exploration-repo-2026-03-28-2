@@ -2,3 +2,4 @@
 
 print('Hello from MCP repository management exploration!')
 print('This file was created via the create_or_update_file tool.')
+print('Updated in feature branch for pull request testing.')
